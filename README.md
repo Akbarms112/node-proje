@@ -1,6 +1,6 @@
 # node-proje
 Node + Express Service Starter
-This is a simple API sample in Node.js with express.js based on Google Cloud Run Quickstart.
+This is a simple API sample in Node.js with express.js based on https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-nodejs-service.
 
 Getting Started
 
